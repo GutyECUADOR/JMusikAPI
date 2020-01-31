@@ -1,6 +1,8 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using JMusik.Models;
+using JMusik.Data.Configuracion;
 
 namespace JMusik.Data
 {
@@ -33,44 +35,9 @@ namespace JMusik.Data
         {
             modelBuilder.HasAnnotation("ProductVersion", "2.2.6-servicing-10079");
 
-            modelBuilder.Entity<DetalleOrden>(entity =>
-            {
-                entity.ToTable("DetalleOrden", "tienda");
-
-                entity.HasIndex(e => e.OrdenId);
-
-                entity.HasIndex(e => e.ProductoId);
-
-                entity.Property(e => e.Cantidad).HasColumnType("decimal(18, 2)");
-
-                entity.Property(e => e.PrecioUnitario).HasColumnType("decimal(18, 2)");
-
-                entity.Property(e => e.Total).HasColumnType("decimal(18, 2)");
-
-                entity.HasOne(d => d.Orden)
-                    .WithMany(p => p.DetalleOrden)
-                    .HasForeignKey(d => d.OrdenId);
-
-                entity.HasOne(d => d.Producto)
-                    .WithMany(p => p.DetalleOrden)
-                    .HasForeignKey(d => d.ProductoId);
-            });
-
-            modelBuilder.Entity<Orden>(entity =>
-            {
-                entity.ToTable("Orden", "tienda");
-
-                entity.HasIndex(e => e.UsuarioId);
-
-                entity.Property(e => e.CantidadArticulos).HasColumnType("decimal(18, 2)");
-
-                entity.Property(e => e.Importe).HasColumnType("decimal(18, 2)");
-
-                entity.HasOne(d => d.Usuario)
-                    .WithMany(p => p.Orden)
-                    .HasForeignKey(d => d.UsuarioId);
-            });
-
+            modelBuilder.ApplyConfiguration(new DetalleOrdenConfig());
+            modelBuilder.ApplyConfiguration(new OrdenConfig());
+            
             modelBuilder.Entity<Perfil>(entity =>
             {
                 entity.ToTable("Perfil", "tienda");

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace JMusik.Data
+namespace JMusik.Models
 {
     public partial class Perfil
     {

@@ -7,3 +7,6 @@ C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Data\bin\Debug\netcoreapp2.2
 C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Data\obj\Debug\netcoreapp2.2\JMusik.Data.csprojAssemblyReference.cache
 C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Data\obj\Debug\netcoreapp2.2\JMusik.Data.dll
 C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Data\obj\Debug\netcoreapp2.2\JMusik.Data.pdb
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Data\bin\Debug\netcoreapp2.2\JMusik.Models.dll
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Data\bin\Debug\netcoreapp2.2\JMusik.Models.pdb
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Data\obj\Debug\netcoreapp2.2\JMusik.Data.csproj.CopyComplete

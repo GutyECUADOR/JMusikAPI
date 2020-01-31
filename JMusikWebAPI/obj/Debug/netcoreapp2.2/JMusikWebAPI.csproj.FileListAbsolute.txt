@@ -15,3 +15,5 @@ C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.
 C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\bin\Debug\netcoreapp2.2\JMusik.Data.dll
 C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\bin\Debug\netcoreapp2.2\JMusik.Data.pdb
 C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.2\JMusikWebAPI.csproj.CopyComplete
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\bin\Debug\netcoreapp2.2\JMusik.Models.dll
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\bin\Debug\netcoreapp2.2\JMusik.Models.pdb
