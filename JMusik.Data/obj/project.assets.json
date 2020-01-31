@@ -906,6 +906,16 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
+      },
+      "JMusik.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/JMusik.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JMusik.Models.dll": {}
+        }
       }
     }
   },
@@ -3457,10 +3467,16 @@
         "system.threading.tasks.4.0.11.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "JMusik.Models/1.0.0": {
+      "type": "project",
+      "path": "../JMusik.Models/JMusik.Models.csproj",
+      "msbuildProject": "../JMusik.Models/JMusik.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "JMusik.Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.6",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
@@ -3494,7 +3510,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Dell_Sudcompu\\Desktop\\DotNet\\JMusik\\JMusik.Models\\JMusik.Models.csproj": {
+              "projectPath": "C:\\Users\\Dell_Sudcompu\\Desktop\\DotNet\\JMusik\\JMusik.Models\\JMusik.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
