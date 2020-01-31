@@ -1,0 +1,17 @@
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\bin\Debug\netcoreapp2.2\JMusikWebAPI.deps.json
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\bin\Debug\netcoreapp2.2\JMusikWebAPI.runtimeconfig.json
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\bin\Debug\netcoreapp2.2\JMusikWebAPI.runtimeconfig.dev.json
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\bin\Debug\netcoreapp2.2\JMusikWebAPI.dll
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\bin\Debug\netcoreapp2.2\JMusikWebAPI.pdb
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.2\JMusikWebAPI.csprojAssemblyReference.cache
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.2\JMusikWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.2\JMusikWebAPI.RazorAssemblyInfo.cache
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.2\JMusikWebAPI.RazorAssemblyInfo.cs
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.2\JMusikWebAPI.AssemblyInfoInputs.cache
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.2\JMusikWebAPI.AssemblyInfo.cs
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.2\JMusikWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.2\JMusikWebAPI.dll
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.2\JMusikWebAPI.pdb
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\bin\Debug\netcoreapp2.2\JMusik.Data.dll
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\bin\Debug\netcoreapp2.2\JMusik.Data.pdb
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusikWebAPI\obj\Debug\netcoreapp2.2\JMusikWebAPI.csproj.CopyComplete

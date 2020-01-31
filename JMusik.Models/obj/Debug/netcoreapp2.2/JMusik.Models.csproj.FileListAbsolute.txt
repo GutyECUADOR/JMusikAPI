@@ -1,0 +1,9 @@
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.deps.json
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.dll
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.pdb
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.AssemblyInfoInputs.cache
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.AssemblyInfo.cs
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.dll
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.pdb
+C:\Users\Dell_Sudcompu\Desktop\DotNet\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.csprojAssemblyReference.cache
