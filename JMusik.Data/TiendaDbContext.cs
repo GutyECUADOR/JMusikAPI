@@ -37,43 +37,9 @@ namespace JMusik.Data
 
             modelBuilder.ApplyConfiguration(new DetalleOrdenConfig());
             modelBuilder.ApplyConfiguration(new OrdenConfig());
-            
-            modelBuilder.Entity<Perfil>(entity =>
-            {
-                entity.ToTable("Perfil", "tienda");
-
-                entity.Property(e => e.Nombre).HasMaxLength(50);
-            });
-
-            modelBuilder.Entity<Producto>(entity =>
-            {
-                entity.ToTable("Producto", "tienda");
-
-                entity.Property(e => e.Nombre).HasMaxLength(256);
-
-                entity.Property(e => e.Precio).HasColumnType("decimal(18, 2)");
-            });
-
-            modelBuilder.Entity<Usuario>(entity =>
-            {
-                entity.ToTable("Usuario", "tienda");
-
-                entity.HasIndex(e => e.PerfilId);
-
-                entity.Property(e => e.Apellidos).HasMaxLength(256);
-
-                entity.Property(e => e.Email).HasMaxLength(100);
-
-                entity.Property(e => e.Nombre).HasMaxLength(50);
-
-                entity.Property(e => e.Password).HasMaxLength(512);
-
-                entity.Property(e => e.Username).HasMaxLength(25);
-
-                entity.HasOne(d => d.Perfil)
-                    .WithMany(p => p.Usuario)
-                    .HasForeignKey(d => d.PerfilId);
-            });
+            modelBuilder.ApplyConfiguration(new PerfilConfig());
+            modelBuilder.ApplyConfiguration(new ProductoConfig());
+            modelBuilder.ApplyConfiguration(new UsuarioConfig());
         }
     }
 }
